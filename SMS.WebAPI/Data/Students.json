@@ -1,0 +1,22 @@
+[
+  {
+    "StudentId": 1,
+    "FirstName": "Vipul",
+    "LastName": "Belhekar"
+  },
+  {
+    "StudentId": 2,
+    "FirstName": "Sonali",
+    "LastName": "Panmand"
+  },
+  {
+    "StudentId": 3,
+    "FirstName": "Vishal",
+    "LastName": "Panmand"
+  },
+  {
+    "StudentId": 4,
+    "FirstName": "Amar",
+    "LastName": "Hundare"
+  }
+]
